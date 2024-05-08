@@ -34,3 +34,5 @@ MARK FOR LONG CONTEXT UNDERSTANDING](https://arxiv.org/pdf/2308.14508.pdf)
 - establish the environment(ninja flash_attn, fast_chat)
 - modify the pred.py and run
 ![alt text](image-8.png)
+- run LongBench on the Longchat-v1.5-7b-32k with easyKV (fixed budget 1024 tokens)
+![alt text](image-9.png)
